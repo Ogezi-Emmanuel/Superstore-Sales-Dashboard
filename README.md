@@ -27,8 +27,8 @@ The dataset used is the "Sample - Superstore" dataset, which contains sales data
   The top 10 customers account for a disproportionately high amount of total revenue. This highlights the importance of customer retention programs and personalized             marketing for these key accounts to ensure continued business growth.
 
 ### Dashboard Screenshots
-![Dashboard Screenshot](dashboard_view1.png)
-![Dashboard Screenshot](dashboard_view2.png)
+![Dashboard Screenshot](https://github.com/Ogezi-Emmanuel/Superstore-Sales-Dashboard/blob/main/Dashboard-view1.png)
+![Dashboard Screenshot](https://github.com/Ogezi-Emmanuel/Superstore-Sales-Dashboard/blob/main/Dashboard-view2.png)
 
 
 ## 6. Live Dashboard
